@@ -16,13 +16,16 @@ Olá! Meu nome é Micael e atualmente sou um desenvolvedor .NET, Mobile. Em meu 
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
-<img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT">
+<img height="25" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" alt="Flutter">
+<img height="25" src="https://1.bp.blogspot.com/-fVDbD3J8eho/YJF2gy45xrI/AAAAAAAAQeI/oEg5IEBzmKgCKpgbXwdr9Rx4pAbjCYToACLcBGAsYHQ/s0/Untitled%2B%252810%2529.png" alt="AndroidStudio">
+
+
 
 <!--
 **mresanto/mresanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
