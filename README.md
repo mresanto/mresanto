@@ -1,17 +1,19 @@
-# :man_technologist: Micael Rodrigues do Espirito Santo
+### Olá, Devs. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=)]()
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=&text=Olá!)]()
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511981991557&text=Olá!)](https://api.whatsapp.com/send?phone=5511981991557&text=Olá!)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:micaelrodrigues504@gmail.com)
 
 ---
-Olá! Meu nome é Micael e atualmente sou um desenvolvedor .NET, Mobile. Em meu tempo livre, faço alguns projetos com tecnologias que estou aprendendo ou me aprimorando.
+Meu nome é Micael, atualmente sou um estudante de desenvolvimento, porém com foco em aplicações mobile. Gosto de aprender e tenho alguns projetos com tecnologias que estou me aprimorando ou aprendendo.
 
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/66914500/149642358-a754b369-a897-4bf0-a71a-c256aa88606a.gif?raw=true" width="500" height="320" />
+  
 - 🌎 São Paulo / Brasil
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas.
 - 💻 **Linguagens:** C#, Java, Dart, JavaScript
-- 🔧 **Ferramentas e Tecnologias:** ASP.NET, SpringBoot, Design Patterns, API RestFull, Postman, TypeScript, MySql, Oracle, SqlServer, Flutter, Android Studio.  
+- 🔧 **Ferramentas e Tecnologias:** ASP.NET, Flutter, Design Patterns, API RestFull, Postman, MySql, SqlServer, Flutter, Android Studio.  
 ####
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" /></code>
