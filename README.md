@@ -11,7 +11,7 @@ Meu nome é Micael, atualmente sou um estudante de desenvolvimento, porém com f
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/66914500/149642358-a754b369-a897-4bf0-a71a-c256aa88606a.gif?raw=true" width="500" height="320" />
   
 - 🌎 São Paulo / Brasil
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
 - 💻 **Linguagens:** C#, Java, Dart, JavaScript
 - 🔧 **Ferramentas e Tecnologias:** ASP.NET, Flutter, Design Patterns, API RestFull, Postman, MySql, SqlServer, Flutter, Android Studio.  
 ####
